@@ -73,3 +73,10 @@ yarn-error.log
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
+
+# Build errors and logs
+build_error.log
+*.log
+
+# Android build artifacts
+android/Some
